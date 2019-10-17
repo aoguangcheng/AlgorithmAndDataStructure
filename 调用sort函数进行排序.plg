@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 调用sort函数进行排序 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\敖光成\AppData\Local\Temp\RSP9BF.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/调用sort函数进行排序.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\敖光成\Desktop\学习资料\C语言\调用sort函数进行排序.cpp"
+]
+Creating command line "cl.exe @"C:\Users\敖光成\AppData\Local\Temp\RSP9BF.tmp"" 
+Creating temporary file "C:\Users\敖光成\AppData\Local\Temp\RSP9C0.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/调用sort函数进行排序.pdb" /debug /machine:I386 /out:"Debug/调用sort函数进行排序.exe" /pdbtype:sept 
+".\Debug\调用sort函数进行排序.obj"
+]
+Creating command line "link.exe @"C:\Users\敖光成\AppData\Local\Temp\RSP9C0.tmp""
+<h3>Output Window</h3>
+Compiling...
+调用sort函数进行排序.cpp
+C:\Users\敖光成\Desktop\学习资料\C语言\调用sort函数进行排序.cpp(13) : warning C4508: 'main' : function should return a value; 'void' return type assumed
+Linking...
+
+
+
+<h3>Results</h3>
+调用sort函数进行排序.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: PAT1029 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\敖光成\AppData\Local\Temp\RSPACEA.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/PAT1029.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\敖光成\Desktop\PAT1029.CPP"
+]
+Creating command line "cl.exe @"C:\Users\敖光成\AppData\Local\Temp\RSPACEA.tmp"" 
+<h3>Output Window</h3>
+Compiling...
+PAT1029.CPP
+C:\Users\敖光成\Desktop\PAT1029.CPP(13) : warning C4018: '<=' : signed/unsigned mismatch
+C:\Users\敖光成\Desktop\PAT1029.CPP(22) : warning C4018: '>' : signed/unsigned mismatch
+C:\Users\敖光成\Desktop\PAT1029.CPP(57) : warning C4018: '<=' : signed/unsigned mismatch
+C:\Users\敖光成\Desktop\PAT1029.CPP(24) : warning C4715: 'f' : not all control paths return a value
+
+
+
+<h3>Results</h3>
+PAT1029.OBJ - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
